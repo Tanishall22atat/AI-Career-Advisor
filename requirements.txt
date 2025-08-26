@@ -1,5 +1,7 @@
-streamlit==1.48.1
-langchain
+
+streamlit
+langchain>=0.1.0
+
 PyPDF2
 
 
